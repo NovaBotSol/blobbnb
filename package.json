@@ -1,0 +1,12 @@
+{
+  "name": "blob-world",
+  "version": "1.0.0",
+  "description": "A simple interactive website featuring blob swimming in the ocean",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+} 
