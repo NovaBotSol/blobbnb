@@ -8,7 +8,7 @@ body {
     width: 100%;
     height: 100vh;
     overflow: hidden;
-    background: url('./public/ocean.png') center/cover no-repeat fixed;
+    background: url('/public/ocean.png') center/cover no-repeat fixed;
     font-family: 'Bangers', cursive;
     position: relative;
 }
