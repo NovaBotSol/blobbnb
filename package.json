@@ -4,7 +4,9 @@
   "description": "A simple interactive website featuring blob swimming in the ocean",
   "main": "index.html",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "vercel-build": "echo 'Build step complete'",
+    "build": "echo 'Build step complete'"
   },
   "dependencies": {
     "serve": "^14.2.0"
